@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm currently learning Web Development
+# About Me
+
+I am **Anurag Saini**, a B.Tech Computer Science Engineering student and an aspiring **Full Stack Web Developer**. I am passionate about technology, web development, programming, and building practical projects that solve real-world problems.
+
+I have developed a strong foundation in **Python, HTML, CSS, JavaScript, Git, and GitHub**. I have also worked on several projects and challenges to improve my programming and problem-solving skills. My learning journey includes completing a **100+ Days Python Challenge**, where I practiced Python concepts, explored NumPy, and built projects such as an expense tracker, AI study buddy, to-do app, budget tracker, calculator, and cricket score counter.
+
+Currently, I am focusing on strengthening my **frontend and backend development skills** and working toward becoming a capable **Full Stack Web Developer**. I enjoy learning through hands-on projects, experimenting with new technologies, and consistently improving my skills.
+
+I believe in **continuous learning, consistency, and building rather than just learning theory**. My goal is to grow as a software developer and create useful, scalable, and user-friendly web applications.
+
 
 
 ## 🌐 Socials:
